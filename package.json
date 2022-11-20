@@ -1,0 +1,23 @@
+{
+  "name": "rpi-ws2812b-body",
+  "version": "1.0.0",
+  "description": "A school project for \"natuur, leven en technologie\" that turns on LEDs with a web site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rubenuijtdewilligen/rpi-ws2812b-body.git"
+  },
+  "author": "Ruben Uijtdewilligen <ruben@uijtdewilligenbv.nl>",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/rubenuijtdewilligen/rpi-ws2812b-body/issues"
+  },
+  "homepage": "https://github.com/rubenuijtdewilligen/rpi-ws2812b-body#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2"
+  }
+}

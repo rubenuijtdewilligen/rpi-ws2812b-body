@@ -1,0 +1,21 @@
+section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.btn {
+  padding: 12px;
+  margin-bottom: 12px;
+  width: 20rem;
+  display: inline-block;
+}
+
+#hartvaten {
+  margin-top: 12px;
+}
+
+#off {
+  margin-top: 50px;
+}
